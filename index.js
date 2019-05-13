@@ -90,7 +90,7 @@ const styles = StyleSheet.create({
   }
 });
 
-AutoScrolling.defaultProps = {
+AutoScroller.defaultProps = {
   duration: 10,
   delay: 1000
 };
