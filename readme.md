@@ -44,19 +44,19 @@ yarn add react-native-auto-scroller
 
 ```javascript
 import React from "react";
-import { AutoScrolling } from "react-native-auto-scroller";
+import { AutoScroller } from "react-native-auto-scroller";
 
 class App extends PureComponent {
   render() {
     return (
       <View>
         ...
-        <AutoScrolling>
+        <AutoScroller>
           <Image source={myImages} />
           <Image source={myImages} />
           <Image source={myImages} />
           <Image source={myImages} />
-        </AutoScrolling>
+        </AutoScroller>
         ...
       </View>
     );

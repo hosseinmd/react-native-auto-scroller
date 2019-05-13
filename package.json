@@ -1,7 +1,7 @@
 {
   "name": "react-native-auto-scroller",
   "version": "0.0.1",
-  "description": "auto scrolling component",
+  "description": "auto scroller component",
   "main": "index.js",
   "repository": {
     "type": "git",

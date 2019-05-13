@@ -17,4 +17,4 @@ interface Props {
   delay?: number;
 }
 
-export class AutoScrolling extends React.PureComponent<Props> {}
+export class AutoScroller extends React.PureComponent<Props> {}

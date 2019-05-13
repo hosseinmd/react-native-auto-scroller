@@ -7,7 +7,7 @@
 import React, { memo, useCallback, useRef, useMemo } from "react";
 import { Animated, Easing, StyleSheet, View, PanResponder } from "react-native";
 
-export const AutoScrolling = memo(props => {
+export const AutoScroller = memo(props => {
   const Anim = useRef(new Animated.Value(0)).current;
   const Holder = useRef({ maxOffsetX: 0 }).current;
 
