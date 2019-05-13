@@ -1,11 +1,11 @@
 {
-  "name": "react-native-auto-scrolling",
+  "name": "react-native-auto-scroller",
   "version": "0.0.1",
   "description": "auto scrolling component",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hosseinmd/react-native-auto-scrolling.git"
+    "url": "git+https://github.com/hosseinmd/react-native-auto-scroller.git"
   },
   "keywords": [
     "scrolling",
@@ -21,18 +21,18 @@
     "library",
     "high-performance",
     "best-practices",
-    "react-native-auto-scrolling",
+    "react-native-auto-scroller",
     "hossein",
     "mohammadi"
   ],
   "author": "Hossein mohammadi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hosseinmd/react-native-auto-scrolling/issues"
+    "url": "https://github.com/hosseinmd/react-native-auto-scroller/issues"
   },
   "peerDependencies": {
     "react": ">=16.8.6",
     "react-native": ">=0.59"
   },
-  "homepage": "https://github.com/hosseinmd/react-native-auto-scrolling#readme"
+  "homepage": "https://github.com/hosseinmd/react-native-auto-scroller#readme"
 }
